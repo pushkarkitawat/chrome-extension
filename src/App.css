@@ -1,0 +1,62 @@
+.app {
+  width: 320px;
+  padding: 12px;
+  font-family: system-ui, sans-serif;
+}
+
+.section {
+  background: #1f1f1f;
+  padding: 10px;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.highlight {
+  border: 1px solid #4caf50;
+}
+
+.alert {
+  border: 1px solid #ff6b6b;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.big {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.green {
+  color: #4caf50;
+}
+
+.red {
+  color: #ff6b6b;
+}
+
+.site-card {
+  margin-top: 8px;
+  padding: 8px;
+  background: #2a2a2a;
+  border-radius: 8px;
+}
+
+.meta {
+  font-size: 12px;
+  opacity: 0.7;
+  display: flex;
+  justify-content: space-between;
+}
+
+.clear {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  background: #ff5252;
+  color: white;
+  cursor: pointer;
+}
